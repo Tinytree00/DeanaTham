@@ -21,6 +21,13 @@ Deep analysis of real companies and apps.
 📚 Studying / Practice  
 Things I want to learn or practice. 
 
+## Current Projects
+
+- Idea fish tank
+- accountability Journal 
+- pinterest-figma-claude-mcp
+  
 ## Featured Work
 
 Coming soon.
+

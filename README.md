@@ -24,7 +24,7 @@ Things I want to learn or practice.
 ## Current Projects
 
 - Idea fish tank
-- accountability Journal 
+- accountability journal 
 - pinterest-figma-claude-mcp
   
 ## Featured Work
